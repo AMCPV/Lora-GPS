@@ -1,0 +1,2 @@
+Fill.text,Fill.data,Fill.bss,Misc.text,Misc.data,Misc.bss,drivers.text,drivers.data,drivers.bss,hal.text,hal.data,hal.bss,platform.text,platform.data,platform.bss,rtos.text,rtos.data,rtos.bss,rtos/rtx.text,rtos/rtx.data,rtos/rtx.bss,targets/TARGET_STM.text,targets/TARGET_STM.data,targets/TARGET_STM.bss,static_ram,heap,stack,total_ram,total_flash
+204,6,85,39679,462,4216,3477,4,164,746,0,8,1730,4,297,171,4,4,5521,20,3074,10226,4,1344,9696,unknown,unknown,9696,62258
